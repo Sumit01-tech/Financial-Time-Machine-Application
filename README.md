@@ -47,6 +47,7 @@ financial-time-machine/
 │   ├── components/
 │   │   ├── Header.jsx
 │   │   ├── Footer.jsx
+│   │   ├── FinancialProjectionChart.jsx
 │   │   └── FinancialCard.jsx
 │   ├── pages/
 │   │   ├── Home.jsx
