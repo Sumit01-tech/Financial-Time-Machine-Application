@@ -73,7 +73,7 @@ Follow the steps below to run the app locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/financial-time-machine.git
+git clone https://github.com/Sumit01-tech/financial-time-machine.git
 
 # 2. Navigate into the folder
 cd financial-time-machine
@@ -91,8 +91,7 @@ npm run dev
 
 ### 🔗 Deployment Link
 
-Live Version: [https://financial-time-machine.vercel.app](https://financial-time-machine.vercel.app)  
-> *(Update this with your actual deployment link)*
+Live Version: [https://financial-time-machine-application-24zn.vercel.app](https://financial-time-machine-application-24zn.vercel.app)  
 
 ---
 
@@ -100,13 +99,6 @@ Live Version: [https://financial-time-machine.vercel.app](https://financial-time
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/your-video-link/view?usp=sharing)  
 > *(Hosted on Google Drive / YouTube — Ensure “Anyone with the link can view”)*
-
----
-
-### 📁 Additional Resources (Optional)
-
-- Presentation Slides (if any): [Google Drive Link](https://drive.google.com/file/d/your-slides-link/view)
-- Extended docs or reports: Add here if needed.
 
 ---
 
